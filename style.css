@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+h1 {
+  color: black;
+}
+
+p {
+  color: #A5815D;
+}
+
+.padding-0 {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.profilePic img {
+  margin-left: 20%;
+  border-radius: 50%;
+  width: 50px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.userInfo h1 {
+  font-size: 12px;
+}
+
+.col-sm-1 {
+  padding-top: 10%;
+}
+
+.engineLogo img {
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15%;
+  padding-bottom: 4%;
+}
+
+.dropdown {
+  margin-top: 10%;
+}
+
+.btn {
+  border-radius: 50%;
+  background-color: white;
+  border-color: white;
+}
+
+.btn-primary:hover {
+  border-color: white;
+  background-color: white;
+}
+
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
+  color: white !important;
+  background-color: white !important;
+  border-color: white !important;
+}
+
+.not_too_right {
+  padding-right: 5%;
+}
+
+h2 {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 25px;
+  color: #C69C6D;
+}
+
+.history_table table {
+  color: #A5815D;
+}
+
+.one-edge-shadow {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.0001);
+}
+
+.query-words input {
+  color: #C69C6D;
+  font-weight: bold;
+}
+
+.query-words input:hover {
+  color: #C69C6D;
+}
+
+.links a:link {
+  color: #A5815D;
+}
+
+a:link {
+  color: #A5815D;
+}
+
+.directional-buttons a:link {
+  font-weight: bold;
+  color: #C69C6D;
+}

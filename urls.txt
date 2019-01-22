@@ -1,0 +1,4 @@
+http://google.com
+http://google.ca
+http://bing.com
+http://www.eecg.toronto.edu

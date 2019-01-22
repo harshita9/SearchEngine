@@ -1,0 +1,7 @@
+Instance created: Monday, November 12, 2018
+
+Public IP address of live web server: 54.161.255.192
+
+Public DNS: ec2-54-161-255-192.compute-1.amazonaws.com
+
+To view search engine, go to http://54.161.255.192:80/ or http://ec2-54-161-255-192.compute-1.amazonaws.com.
